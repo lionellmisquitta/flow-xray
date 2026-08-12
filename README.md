@@ -1,4 +1,5 @@
 # Flow X-Ray
+![Flow X-Ray demo](FlowXRay-demo.gif)
 
 **See where workflow time accumulated — and where work is sitting now.**
 
